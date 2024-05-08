@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syedafizza</h1>
 <h3 align="center">A passionate Generative Ai Engineer From Pakistan</h3>
 
-<p align="right" alt="coding" width="400" <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" /> </p>
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafizza410&label=Profile%20views&color=0e75b6&style=flat" alt="syedafizza410" /> </p>
 
