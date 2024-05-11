@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/1d/a9/44/1da944eeeea58e27db560ba9abd1948e.jpg" />
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*SzN6u2U98S4RyhWo_WyaHQ.png" />
 <h1 align="center">Hi 👋, I'm Syedafizza</h1>
 <h3 align="center">A passionate Generative Ai Engineer From Pakistan</h3>
 
